@@ -1,6 +1,6 @@
 /*
 ID: pythonnewb
-TASK: Vanya and Lanterns
+TASK: Vanya_and_Lanterns
 LANG: C++
 */
 
